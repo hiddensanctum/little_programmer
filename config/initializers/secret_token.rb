@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-LittleProgrammer::Application.config.secret_key_base = '0efb65201ffb35312bfddc2aa4a6a6b175da89c9f01529c2a4e2afe5b1c1f223103421d0e715e4ec3bfd3d007e18c0c35f02a9386934435b2014acde43af42ae'
+LittleProgrammer::Application.config.secret_key_base = ENV["RAILS_SECRET"]
