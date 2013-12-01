@@ -1,6 +1,6 @@
 # Little Programmer
 Work in Progress
-by Derik Strattan, James Chuang, Thanh, 
+by Derik Strattan, James Chuang, Thanh Huynh 
 
 ## Description
 
