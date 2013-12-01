@@ -1,7 +1,10 @@
 # Little Programmer
+Work in Progress
+by Derik Strattan, James Chuang, Thanh, 
 
-by James Chuang
 ## Description
+
+Originally Created during Startup Weekend EDU, Little Programmers is an interactive storybook platform to teach kids basic programming concepts.
 
 ## Usage
 
@@ -12,8 +15,8 @@ There are currently no known issues.
 ## Authors
 
 * [James Chuang](https://github.com/hiddensanctum)
-* [Derik]
-* [Thanh]
+* [Derik Strattan](https://github.com/Derikulous)
+* [Thanh Huynh](https://github.com/thanhjamin)
 
 ## Contributing
 
